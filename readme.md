@@ -4,7 +4,7 @@
 
 Here, you'll find a collection of certificates I've earned throughout my journey. 📈
 
-All of them are form Coursera, visit my profile fromr [HERE](https://www.coursera.org/user/6944ff3e4e0797e79b4c5be511cf1a8d).
+All of them are form Coursera, visit my profile here [Coursera-Profile](https://www.coursera.org/user/6944ff3e4e0797e79b4c5be511cf1a8d).
 
 
 ## Certificate Showcase 📸
@@ -21,5 +21,5 @@ I'm Ansheep Rawat, a B.Tech. student with a passion for Cybersecurity. I'm excit
 
 ## Contact Me 📱
 
-Feel free to reach out to me at [E-Mail](ar1888819@gmail.com).
+Feel free to reach out to me in my [E-Mail](ar1888819@gmail.com).
 
