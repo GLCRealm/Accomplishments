@@ -2,42 +2,24 @@
 
 👋 Welcome to my Certificate Repository! 🎉
 
-Here, you'll find a collection of certificates I've earned throughout my journey in [Your Field/Profession]. 📈
+Here, you'll find a collection of certificates I've earned throughout my journey. 📈
 
-## Certificate Index 🔍
+All of them are form Coursera, visit my profile fromr [HERE](https://www.coursera.org/user/6944ff3e4e0797e79b4c5be511cf1a8d).
 
-* **[Certification Name 1]** 🎓: [Certification Description]
-* **[Certification Name 2]** 🎓: [Certification Description]
-* **[Certification Name 3]** 🎓: [Certification Description]
-
-## Certificate List 📝
-
-| Certificate Name | Issuing Organization | Date Earned |
-| --- | --- | --- |
-| [Certification Name 1] | [Organization] | [Date] |
-| [Certification Name 2] | [Organization] | [Date] |
-| [Certification Name 3] | [Organization] | [Date] |
 
 ## Certificate Showcase 📸
 
 Here are some of my certificates:
 
-* ![Certificate 1](link-to-certificate-image-1.png "Certificate 1")
-* ![Certificate 2](link-to-certificate-image-2.png "Certificate 2")
-* ![Certificate 3](link-to-certificate-image-3.png "Certificate 3")
+* [Google Cybersecurity](https://github.com/GLCRealm/Accomplishments/blob/main/Google%20Cybersecurity/Coursera%20RX6IGA17Q766.pdf)
+* [IBM Cybersecurity Analyst](https://github.com/GLCRealm/Accomplishments/blob/main/IBM%20Cybersecurity%20Analyst%20Professional%20Certificate/Coursera%20QST95L4W0O6H.pdf)
+* [Ethical Hacking](https://github.com/GLCRealm/Accomplishments/blob/main/Certified%20Ethical%20Hacking%20(v12)%20Specialization%20(LearnKartS)/Coursera%20KEPN8DND8YGW.pdf)
 
 ## About Me 👥
 
-I'm [Your Name], a [Your Profession] with a passion for [Your Interest]. I'm excited to share my certificates with you and showcase my skills. 🤝
+I'm Ansheep Rawat, a B.Tech. student with a passion for Cybersecurity. I'm excited to share my certificates with you and showcase my skills. 🤝
 
 ## Contact Me 📱
 
-Feel free to reach out to me at [Your Email] or [Your LinkedIn Profile].
+Feel free to reach out to me at [E-Mail](ar1888819@gmail.com).
 
-## License 📄
-
-This repository is licensed under the [License Name] license.
-
-## Acknowledgments 🙏
-
-I'd like to thank [Name] for their support and guidance throughout my certification journey.
